@@ -1,7 +1,7 @@
 # Customer Segmentation using K-means Clustering Project
     This project utilizes Python along with pandas and matplotlib to perform customer segmentation using K-means clustering.
 
-#Dataset Overview
+# Dataset Overview
     The dataset used in this project is from a mall and contains the following features:
 
   ### Age: 
